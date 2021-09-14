@@ -122,4 +122,8 @@ p {
   h1 {
     font-size: 76px !important;
   }
+
+  .heading-mary {
+    font-size: 76px;
+  }
 }
